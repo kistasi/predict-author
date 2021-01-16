@@ -1,0 +1,16 @@
+{
+    "name": "kistasi/predict-author",
+    "description": "Predict the author of an article by the title.",
+    "type": "project",
+    "require": {
+        "php-ai/php-ml": "^0.9.0",
+        "symfony/var-dumper": "^5.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marton Tasnadi",
+            "email": "marton.tasnadi@gmail.com"
+        }
+    ]
+}
